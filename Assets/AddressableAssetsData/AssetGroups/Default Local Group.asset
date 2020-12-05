@@ -16,7 +16,16 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: d0017b9d22a7e0e439fc85ae8f16269f
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: c9bcd53376513d446b7d535f4773d438
+    m_Address: Assets/NexBoard/Prefabs/Avatar/Avatar_Masculino.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 1610786281829200, guid: c9bcd53376513d446b7d535f4773d438,
+      type: 3}
+    m_TargetAsset: {fileID: 1610786281829200, guid: c9bcd53376513d446b7d535f4773d438,
+      type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 6d818f6b5ba6f054c9de683469b01625, type: 2}
   m_SchemaSet:

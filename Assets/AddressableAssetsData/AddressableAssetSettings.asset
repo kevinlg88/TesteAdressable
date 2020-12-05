@@ -13,16 +13,18 @@ MonoBehaviour:
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
   m_DefaultGroup: d0017b9d22a7e0e439fc85ae8f16269f
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 6c3c6140377977348854b882d96c27d9
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 629f8d5773e3a48469e47d7064763a63
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: 78eca37e3d736c048af68aa472640fe5, type: 2}
   - {fileID: 11400000, guid: f79ec984cfb7c9b4c8433bb2848c7545, type: 2}
-  - {fileID: 11400000, guid: 9f1e56b9b133efb4b9f3afc22f4eb179, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -43,7 +45,7 @@ MonoBehaviour:
       - m_Id: 6c3c6140377977348854b882d96c27d9
         m_Value: ServerData/[BuildTarget]
       - m_Id: 629f8d5773e3a48469e47d7064763a63
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://s3.us-east-2.amazonaws.com/com.kevingrandez.testeaddressables/TesteID/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: d26ef32b8369a614aa93283afdea8fee
       m_Name: BuildTarget
